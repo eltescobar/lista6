@@ -1,7 +1,9 @@
 # LISTA 6
 
 ##Arquivos de código
-Arquivos adicionados: 
+
+Arquivos adicionados:
+
 	* exercicio-1.py
 
 	* exercicio-2.py
