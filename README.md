@@ -8,7 +8,7 @@ Arquivos adicionados:
 
 	* exercicio-2.py
 
-## Sequência de comandos utilizados na atividade
+##Sequência de comandos utilizados na atividade
 
 * git add "nome do arquivo" (Registra / inclui o arquivo no repositório)
 
